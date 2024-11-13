@@ -236,7 +236,7 @@
 .imgslide1{
     height: 250px;
     width: 100%;
-    background-color: aqua;
+/*     background-color: aqua; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -247,7 +247,7 @@
 .slide_1{
     height: 200px;
     width: fit-content;
-    background-color: bisque;
+/*     background-color: bisque; */
     display: flex;
     transform: translateX(200px);
     gap: 10px;
@@ -256,7 +256,7 @@
 .boxes{
     height: 200px;
     width: 200px;
-    background-color: #f19538;
+/*     background-color: #f19538; */
     
 
 }
